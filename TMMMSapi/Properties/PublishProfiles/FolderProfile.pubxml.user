@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Release\TMMMSapi</_PublishTargetUrl>
+    <History>True|2022-03-15T03:26:56.7062851Z;True|2022-03-15T11:11:01.4700073+08:00;True|2022-03-15T11:10:40.4969047+08:00;True|2022-03-15T11:10:18.9898987+08:00;True|2022-03-15T11:07:39.0267485+08:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/App_global.asax.compiled">
+      <publishTime>03/15/2022 11:26:56</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.dll">
+      <publishTime>03/15/2022 11:26:56</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>07/25/2012 11:48:56</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>05/30/2012 19:26:26</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.dll">
+      <publishTime>08/08/2012 17:58:44</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>08/08/2012 17:58:24</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.WebRequest.dll">
+      <publishTime>08/08/2012 17:58:44</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>08/08/2012 17:58:22</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>08/08/2012 17:58:22</publishTime>
+    </File>
+    <File Include="bin/TMMMSapi.dll">
+      <publishTime>03/15/2022 11:26:54</publishTime>
+    </File>
+    <File Include="bin/TMMMSapi.pdb">
+      <publishTime>03/15/2022 11:26:54</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>03/15/2022 10:35:27</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>03/15/2022 11:26:55</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/15/2022 11:10:59</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
